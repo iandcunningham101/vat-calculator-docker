@@ -10,6 +10,7 @@
 
 .header{
   padding: 10px;
+  color: greenyellow;
 }
 
 body{
@@ -18,6 +19,6 @@ body{
 }
 
 p {
-  color: black;
+  color: greenyellow;
 }
 
